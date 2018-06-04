@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Made with Thimble</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="cabecalho"></div>
+    <div class="Lateral">
+      <ul> 
+        <li>Home</li>
+        <li>Contact</li>
+        <li>Come Here</li>
+        <li>test</li>
+        <li>Something</li>
+        
+      
+      </ul>
+    
+    
+    </div>
+    <div class="otherside"></div>
+    <div class="centro">
+    
+    <img id="mario"src="mario.png"/>
+    
+    </div>
+    <div class="Rodape">AllRights Reserved Ⓡ to DL10 Corp 2018 </div>
+    
+
+  </body>
+</html>
